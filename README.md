@@ -1,2 +1,2 @@
-# live-workshops
-This is the repository for Kubesimplify live workshops
+# Stripe-Payment-Integration
+Sign-Up form with Stripe payment gateway
