@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "devStart": "nodemon server.js",
-    "deploy": "gh-pages -d client"
+    "deploy": "gh-pages -d client",
+    "build": "npm run-script build"
   },
   "author": "",
   "license": "ISC",
