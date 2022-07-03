@@ -6,8 +6,6 @@
   "scripts": {
     "start": "node server.js",
     "devStart": "nodemon server.js",
-    "predeploy": "npm run build",
-    "build": "npm run-script build",
     "deploy": "gh-pages -d client"
   },
   "author": "",
