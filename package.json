@@ -1,15 +1,19 @@
 {
-  "name": "kube-workshops",
+  "name": "live-workshops",
   "version": "1.0.0",
-  "description": "Sign-Up form with Stripe payment gateway",
+  "homepage": "http://kubesimplify.github.io/live-workshops",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "devStart": "nodemon server.js"
+    "devStart": "nodemon server.js",
+    "predeploy": "npm run build",
+    "build": "npm run-script build",
+    "deploy": "gh-pages -d client"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "nodemon": "^2.0.18"
   },
   "dependencies": {
