@@ -9,12 +9,12 @@ var btnWorshop3 = document.getElementById("work-3");
 btnWorshop1.addEventListener("click", function (e) {
   e.preventDefault();
 
-  location.href = "#";
+  location.href = "https://forms.gle/MR1nDapPMevcXMKp7";
 });
 btnWorshop2.addEventListener("click", function (e) {
   e.preventDefault();
 
-  location.href = "#";
+  location.href = "https://forms.gle/vcdiGEpfG94YR16a7";
 });
 btnWorshop3.addEventListener("click", function (e) {
   e.preventDefault();
