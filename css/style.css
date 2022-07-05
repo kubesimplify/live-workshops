@@ -83,6 +83,15 @@ body {
   background: linear-gradient(135deg, #5cff68, #05caff);
 }
 
+.bullet-points {
+  padding-top: 1rem;
+  padding-left: 1.5rem;
+}
+.video{
+  margin-left: auto;
+  border: 2px solid black;
+
+}
 /* ============================================================================== */
 /* Speaker Cards */
 
