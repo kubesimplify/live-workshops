@@ -10,15 +10,15 @@ var btnWorshop4 = document.getElementById("work-4");
 btnWorshop1.addEventListener("click", function (e) {
   e.preventDefault();
 
-  location.href = "https://forms.gle/MR1nDapPMevcXMKp7";
+  window.open("https://forms.gle/MR1nDapPMevcXMKp7", "_blank");
 });
 btnWorshop2.addEventListener("click", function (e) {
   e.preventDefault();
 
-  location.href = "https://forms.gle/vcdiGEpfG94YR16a7";
+  window.open("https://forms.gle/vcdiGEpfG94YR16a7", "_blank");
 });
 btnWorshop3.addEventListener("click", function (e) {
   e.preventDefault();
 
-  location.href = "https://forms.gle/prWQQhWxwh88cnqo8";
+  window.open("https://forms.gle/prWQQhWxwh88cnqo8", "_blank");
 });
