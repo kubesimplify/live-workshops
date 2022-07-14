@@ -10,7 +10,7 @@ var btnWorshop4 = document.getElementById("work-4");
 btnWorshop1.addEventListener("click", function (e) {
   e.preventDefault();
 
-  window.open("https://forms.gle/MR1nDapPMevcXMKp7", "_blank");
+  window.open("https://youtu.be/EUu1E_YKGTw", "_blank");
 });
 btnWorshop2.addEventListener("click", function (e) {
   e.preventDefault();
