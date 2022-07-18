@@ -15,7 +15,7 @@ btnWorshop1.addEventListener("click", function (e) {
 btnWorshop2.addEventListener("click", function (e) {
   e.preventDefault();
 
-  window.open("https://forms.gle/vcdiGEpfG94YR16a7", "_blank");
+  window.open("https://youtu.be/PN3VqbZqmD8", "_blank");
 });
 btnWorshop3.addEventListener("click", function (e) {
   e.preventDefault();
