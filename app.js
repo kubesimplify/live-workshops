@@ -22,3 +22,8 @@ btnWorshop3.addEventListener("click", function (e) {
 
   window.open("https://forms.gle/prWQQhWxwh88cnqo8", "_blank");
 });
+btnWorshop4.addEventListener("click", function (e) {
+  e.preventDefault();
+
+  window.open("https://forms.gle/mCiVubGcEjdMwEhG8", "_blank");
+});
