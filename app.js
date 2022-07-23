@@ -4,6 +4,7 @@ var btnWorshop1 = document.getElementById("work-1");
 var btnWorshop2 = document.getElementById("work-2");
 var btnWorshop3 = document.getElementById("work-3");
 var btnWorshop4 = document.getElementById("work-4");
+var btnWorshop5 = document.getElementById("work-5");
 
 // __________________________________________________________________
 
@@ -26,4 +27,9 @@ btnWorshop4.addEventListener("click", function (e) {
   e.preventDefault();
 
   window.open("https://forms.gle/mCiVubGcEjdMwEhG8", "_blank");
+});
+btnWorshop5.addEventListener("click", function (e) {
+  e.preventDefault();
+
+  window.open("https://forms.gle/ioVwDca78AEUbs8z8", "_blank");
 });
