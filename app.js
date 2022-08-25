@@ -6,6 +6,7 @@ var btnWorshop3 = document.getElementById("work-3");
 var btnWorshop4 = document.getElementById("work-4");
 var btnWorshop5 = document.getElementById("work-5");
 var btnWorshop6 = document.getElementById("work-6");
+var btnWorshop7 = document.getElementById("work-7");
 
 // __________________________________________________________________
 
@@ -38,4 +39,9 @@ btnWorshop6.addEventListener("click", function (e) {
   e.preventDefault();
 
   window.open("https://youtu.be/259I52_Zh3E", "_blank");
+});
+btnWorshop7.addEventListener("click", function (e) {
+  e.preventDefault();
+
+  window.open("https://forms.gle/8YKXNySh4JyU5mK8A", "_blank");
 });
