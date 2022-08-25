@@ -43,5 +43,5 @@ btnWorshop6.addEventListener("click", function (e) {
 btnWorshop7.addEventListener("click", function (e) {
   e.preventDefault();
 
-  window.open("https://forms.gle/8YKXNySh4JyU5mK8A", "_blank");
+  window.open("https://forms.gle/rxjQYMdUACK1Rbno6", "_blank");
 });
