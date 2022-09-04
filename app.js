@@ -7,6 +7,8 @@ var btnWorshop4 = document.getElementById("work-4");
 var btnWorshop5 = document.getElementById("work-5");
 var btnWorshop6 = document.getElementById("work-6");
 var btnWorshop7 = document.getElementById("work-7");
+var btnWorshop8 = document.getElementById("work-8");
+var btnWorshop9 = document.getElementById("work-9");
 
 // __________________________________________________________________
 
@@ -43,5 +45,17 @@ btnWorshop6.addEventListener("click", function (e) {
 btnWorshop7.addEventListener("click", function (e) {
   e.preventDefault();
 
-  window.open("https://forms.gle/rxjQYMdUACK1Rbno6", "_blank");
+  window.open("https://youtu.be/9KC4Jgtz_j4", "_blank");
+});
+
+// new workshops here:
+btnWorshop8.addEventListener("click", function (e) {
+  e.preventDefault();
+
+  window.open("#", "_blank");
+});
+btnWorshop9.addEventListener("click", function (e) {
+  e.preventDefault();
+
+  window.open("#", "_blank");
 });
