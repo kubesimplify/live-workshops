@@ -35,7 +35,7 @@ btnWorshop4.addEventListener("click", function (e) {
 btnWorshop5.addEventListener("click", function (e) {
   e.preventDefault()
 
-  window.open("https://forms.gle/Zds9Sc9jdRXAxZeQ8", "_blank")
+  window.open("https://youtu.be/cRAA1B4R-1U", "_blank")
 })
 btnWorshop6.addEventListener("click", function (e) {
   e.preventDefault()
